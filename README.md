@@ -1,6 +1,6 @@
 # Fischer Random Chess
 
-![Alt text](https://cloud.githubusercontent.com/assets/13442473/10416393/5e9edbda-7072-11e5-89e5-b0e79c520706.png "Lines aren't rendered properly in this image")
+![screenshot](screenshot.jpg)
 
 ###Dependencies
 - A compiler with at least C++11 support.
