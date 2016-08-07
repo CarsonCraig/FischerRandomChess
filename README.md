@@ -32,3 +32,16 @@ make
 ```
 g++ main.cpp pieces.cpp textfile.cpp loaders.cpp -lGL -lGLU -lglut -lGLEW -lassimp -lSOIL -w -std=c++11 -o RandomChess
 ```
+
+
+
+### Controls
+
+|Control|Purpose|
+|:-:|:-:|
+|1 | Start new game of Orthodox Chess |
+|2 | Start new game of Fischer Random Chess |
+|3 | Start new game of Double Fischer Random Chess |
+| Mouse Click | Select, deselect and move pieces |
+|LEFT | Castle the king with the left rook |
+|RIGHT | Castle the king with the right rook |
