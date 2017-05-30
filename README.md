@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.jpg)
 
-###Dependencies
+### Dependencies
 - A compiler with at least C++11 support.
 - Freeglut3 (Opensource version of GLUT).
 - GLEW (GL extensions wrangler library).
@@ -10,7 +10,7 @@
 - SOIL image loader.
 
 
-###Linux install commands for each dependency
+### Linux install commands for each dependency
 ```
 //Universe repo needed for SOIL and Assimp installations
 sudo apt-add repository universe
@@ -22,7 +22,7 @@ sudo apt-get install libassimp-dev
 sudo apt-get install libsoil-dev
 ```
 
-###Compiling the program
+### Compiling the program
 
 - Using makefile:
 ```
