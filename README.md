@@ -1,4 +1,4 @@
-# Fischer Random Chess
+# Unorthodox Chess
 
 ![screenshot](screenshot.jpg)
 
